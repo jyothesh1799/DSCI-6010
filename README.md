@@ -12,6 +12,22 @@ Devanagari is an Indic script and forms a basis for over 100 languages spoken in
 
 Character Recognition is the identification of printed characters from an image, a book, a handwritten note, cheques, or letters. It is similar to using a handheld scanner to read a barcode, or reading OMR exam sheets, but it can distinguish between different alphabets.
 
+## 4.1 Install Dependencies:
+
+1. Pandas
+2. Numpy
+3. CV2
+4. datetime
+5. Tensorflow
+6. Tkinter
+7. OS
+8. Seaborn
+9. Matplotlib
+
+Anaconda and jupyter notebook is a better way to install dependencies 
+
+
+
 ## [Technical] Project Walkthrough
 
 A sample of the dataset is analyzed using various algorithms, and their scores and computational costs are compared.
