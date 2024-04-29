@@ -44,9 +44,6 @@ Extra Trees Classification algorithm is used to plot a Learning Curve.
 
 The final result, using Extremely Randomized Decision Forest Classification Algorithm with 256 trees gives an accuracy score of 92%.
 
-## What's next!
-
-I intend to expand the study by creating or obtaining, the complete dataset, vowels are missing right now. The complete model will then be used to create an application which can read any language in Devanagari script from a book or a handwritten note.
 
 ## References
 
