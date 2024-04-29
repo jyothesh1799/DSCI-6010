@@ -16,13 +16,12 @@ Character Recognition is the identification of printed characters from an image,
 
 1. Pandas
 2. Numpy
-3. CV2
+3. random
 4. datetime
 5. Tensorflow
-6. Tkinter
-7. OS
-8. Seaborn
-9. Matplotlib
+6. OS
+7. Seaborn
+8. Matplotlib
 
 Anaconda and jupyter notebook is a better way to install dependencies 
 
